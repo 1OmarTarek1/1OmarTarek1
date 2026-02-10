@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Wessam Mohamed's profile!
+  Welcome to Omar Tarek's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -12,7 +12,7 @@
 - ✨ I’m currently working on different Coding Challenges
 - 🌱 I’m currently learning FrontEnd Development
 - ✨ I’m looking to collaborate on open source projects
-- 🚀 How to reach me: wm8821730@gmail.com
+- 🚀 How to reach me: tarekomar052@gmail.com
 
 
 I have great experience of building user-friendly dynamic & responsive web applications. With my extensive understanding in JavaScript, Reactjs, NodeJS, MongoDB other programming languages such as C++ , java and python I have put great contribution in different projects.
