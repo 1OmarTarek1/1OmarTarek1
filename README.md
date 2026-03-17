@@ -36,7 +36,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
   <tr>
     <!-- NAYAL TEX -->
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/Nayal_Tex_WebApp-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
+      <img src="https://img.shields.io/badge/Nayal_Tex_App-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" /> 
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" /> 
@@ -46,7 +46,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
     </td>
     <!-- Palm Mirage -->
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/Palm_Mirage_Hotel-FFD700?style=flat-square&color=FFD700&logoColor=white" style="width:100%; height:35px"/>
+      <img src="https://img.shields.io/badge/Palm_Mirage_App-FFD700?style=flat-square&color=FFD700&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
@@ -55,7 +55,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
     </td>
     <!-- FD Energies -->
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/FD_Energies_Website-FF4136?style=flat-square&color=FF4136&logoColor=white" style="width:100%; height:35px"/>
+      <img src="https://img.shields.io/badge/FD_Energies_Web-FF4136?style=flat-square&color=FF4136&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
@@ -64,7 +64,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
     </td>
     <!-- Get Fit -->
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/Get_Fit_WebApp-7FDBFF?style=flat-square&color=7FDBFF&logoColor=white" style="width:100%; height:35px"/>
+      <img src="https://img.shields.io/badge/Get_Fit_App-7FDBFF?style=flat-square&color=7FDBFF&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
