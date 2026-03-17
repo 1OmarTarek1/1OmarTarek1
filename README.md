@@ -29,6 +29,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
 - 🌍 Open Source Contributions  
 
 ---
+
 ## 💻 Some Projects
 
 <table>
@@ -36,32 +37,42 @@ I love turning ideas into **real products**, solving complex problems, and conti
     <td align="center">
       <b>💡 NAYAL TEX</b><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"><br>
+      Web-based textile management system with **inventory tracking and interactive dashboards**.<br>
       <a href="#">🔗 Live Demo</a>
     </td>
     <td align="center">
       <b>🏨 Palm Mirage</b><br>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
       <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+      Hotel booking platform with **secure authentication and interactive dashboards**.<br>
       <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
     </td>
     <td align="center">
       <b>⛽ FD Energies</b><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      Petroleum supplies website with **real-time updates and global oil news**.<br>
       <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
     </td>
     <td align="center">
       <b>🥗 Get Fit</b><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      AI-powered **nutrition tracker with calorie & recipe analysis**.<br>
       <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
     </td>
     <td align="center">
       <b>⚽ Future Academy</b><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+      Responsive soccer academy web app with **program exploration & session registration**.<br>
       <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
     </td>
   </tr>
