@@ -35,12 +35,14 @@ I love turning ideas into **real products**, solving complex problems, and conti
 <table>
   <tr>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
-      <b>💡 NAYAL TEX</b><br>
+      <div style="width:100%; text-align:center; font-weight:bold; font-size:18px; margin-bottom:5px;">
+    💡 NAYAL TEX
+      </div>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&height=20" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&height=20" /><br>
-      <small>Textile management system with inventory tracking & dashboards.</small><br>
+      <small style="font-size:10px;">Textile management system with inventory tracking & dashboards.</small><br>
       <a href="#">🔗 Live Demo</a>
     </td>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
@@ -49,7 +51,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&height=20" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&height=20" /><br>
-      <small>Hotel booking platform with secure authentication & dashboards.</small><br>
+      <small style="font-size:10px;">Hotel booking platform with secure authentication & dashboards.</small><br>
       <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
     </td>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
@@ -57,7 +59,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&height=20" /><br>
-      <small>Petroleum supplies site with real-time updates.</small><br>
+      <small style="font-size:10px;">Petroleum supplies site with real-time updates.</small><br>
       <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
     </td>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
@@ -65,14 +67,14 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&height=20" /><br>
-      <small>AI-powered nutrition tracker with calories & recipes.</small><br>
+      <small style="font-size:10px;">AI-powered nutrition tracker with calories & recipes.</small><br>
       <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
     </td>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
       <b>⚽ Future Academy</b><br>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&height=20" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&height=20" /><br>
-      <small>Responsive soccer academy with program exploration & session registration.</small><br>
+      <small style="font-size:10px;">Responsive soccer academy with program exploration & session registration.</small><br>
       <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
     </td>
   </tr>
