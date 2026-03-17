@@ -32,54 +32,51 @@ I love turning ideas into **real products**, solving complex problems, and conti
 
 ## 💻 Some Projects
 
-### 💡 NAYAL TEX
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-Textile management system with inventory tracking & dashboards.  
-[🔗 Live Demo](#)
-
----
-
-### 🏨 Palm Mirage
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-Hotel booking platform with secure authentication & dashboards.  
-[🔗 Live Demo](https://plam-mirage-hotel.netlify.app/)
-
----
-
-### ⛽ FD Energies
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-Petroleum supplies site with real-time updates.  
-[🔗 Live Demo](https://fd-liart-mu.vercel.app/)
-
----
-
-### 🥗 Get Fit
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-AI-powered nutrition tracker with calories & recipes.  
-[🔗 Live Demo](https://1omartarek1.github.io/GET_FIT/)
-
----
-
-### ⚽ Future Academy
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-Responsive soccer academy with program exploration & session registration.  
-[🔗 Live Demo](https://1omartarek1.github.io/FutureFA/)   
+<table>
+  <tr>
+    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
+      <b>💡 NAYAL TEX</b><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
+      <sub>Textile management system with inventory tracking & dashboards.</sub><br>
+      <a href="#">🔗 Live Demo</a>
+    </td>
+    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
+      <b>🏨 Palm Mirage</b><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
+      <sub>Hotel booking platform with secure authentication & dashboards.</sub><br>
+      <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
+    </td>
+    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
+      <b>⛽ FD Energies</b><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+      <sub>Petroleum supplies site with real-time updates.</sub><br>
+      <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
+    </td>
+    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
+      <b>🥗 Get Fit</b><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
+      <sub>AI-powered nutrition tracker with calories & recipes.</sub><br>
+      <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
+    </td>
+    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
+      <b>⚽ Future Academy</b><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /><br>
+      <sub>Responsive soccer academy with program exploration & session registration.</sub><br>
+      <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
+    </td>
+  </tr>
+</table>   
 
 ---
 
