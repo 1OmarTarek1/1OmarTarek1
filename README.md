@@ -30,35 +30,45 @@ I love turning ideas into **real products**, solving complex problems, and conti
 
 ---
 
+## 💻 Some Projects
+
 <div align="center">
 
-### 💡 NAYAL TEX
-**Tech:** React.js, CSS3, GSAP, Webworker, TanStack, Firebase  
-[🔗 Live Demo](#)
+<div style="display: inline-block; margin: 10px; text-align: center;">
+  <h4>💡 NAYAL TEX</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <br>[🔗 Live Demo](#)
+</div>
 
----
+<div style="display: inline-block; margin: 10px; text-align: center;">
+  <h4>🏨 Palm Mirage</h4>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <br>[🔗 Live Demo](https://plam-mirage-hotel.netlify.app/)
+</div>
 
-### 🏨 Palm Mirage
-**Tech:** Node.js, Express, React, MongoDB, Docker  
-[🔗 Live Demo](https://plam-mirage-hotel.netlify.app/)
+<div style="display: inline-block; margin: 10px; text-align: center;">
+  <h4>⛽ FD Energies</h4>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br>[🔗 Live Demo](https://fd-liart-mu.vercel.app/)
+</div>
 
----
+<div style="display: inline-block; margin: 10px; text-align: center;">
+  <h4>🥗 Get Fit</h4>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <br>[🔗 Live Demo](https://1omartarek1.github.io/GET_FIT/)
+</div>
 
-### ⛽ FD Energies
-**Tech:** Django, REST, Flask, React  
-[🔗 Live Demo](https://fd-liart-mu.vercel.app/)
-
----
-
-### 🥗 Get Fit
-**Tech:** Django, REST, Flask, React  
-[🔗 Live Demo](https://1omartarek1.github.io/GET_FIT/)
-
----
-
-### ⚽ Future Academy
-**Tech:** Django, REST, Flask, React  
-[🔗 Live Demo](https://1omartarek1.github.io/FutureFA/)
+<div style="display: inline-block; margin: 10px; text-align: center;">
+  <h4>⚽ Future Academy</h4>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <br>[🔗 Live Demo](https://1omartarek1.github.io/FutureFA/)
+</div>
 
 </div>
 
