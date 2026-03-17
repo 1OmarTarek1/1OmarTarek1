@@ -33,7 +33,6 @@ I enjoy turning ideas into **real products**, solving complex problems, and cont
 ## 📫 Contact Me
 
 📧 tarekomar052@gmail.com  
-📞 01024450845  
 🔗 [LinkedIn](https://linkedin.com/in/omar-tarek-aa2a40293) | 🔗 [GitHub](https://github.com/1OmarTarek1)  
 
 ---
