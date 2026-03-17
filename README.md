@@ -50,7 +50,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
-      <sub>Hotel booking platform</sub><br>
+      <sub>Hotel booking platform Website App</sub><br>
       <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
     </td>
     <!-- FD Energies -->
