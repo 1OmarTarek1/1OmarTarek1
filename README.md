@@ -35,7 +35,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
 <table>
   <tr>
     <!-- NAYAL TEX -->
-    <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+    <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Nayal_Tex_WebApp-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-1572B6?style=flat-square&logo=gsap&logoColor=white" />
@@ -44,7 +44,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <a href="#">🔗 Live Demo</a>
     </td>
     <!-- Palm Mirage -->
-    <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+    <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Palm_Mirage_Hotel-FFD700?style=flat-square&color=FFD700&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
@@ -53,7 +53,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
     </td>
     <!-- FD Energies -->
-    <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+    <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/FD_Energies_Website-FF4136?style=flat-square&color=FF4136&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -62,7 +62,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
     </td>
     <!-- Get Fit -->
-    <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+    <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Get_Fit_WebApp-7FDBFF?style=flat-square&color=7FDBFF&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
@@ -71,7 +71,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
     </td>
     <!-- Future Academy -->
-    <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+    <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Future_Academy-FF851B?style=flat-square&color=FF851B&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/GSAP-7952B3?style=flat-square&logo=gsap&logoColor=white" />
