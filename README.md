@@ -72,7 +72,8 @@ I love turning ideas into **real products**, solving complex problems, and learn
 ## 📊 GitHub Stats
 
 <div align="center">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=radical" alt="Omar Tarek's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
