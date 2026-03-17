@@ -41,51 +41,14 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br><br>
-      <div style="height:70px;">Textile management system with inventory tracking & dashboards.</div>
+      <div style="height:70px; color:black; font-weight:normal;">
+        Textile management system with inventory tracking & dashboards.
+      </div>
       <a href="#">🔗 Live Demo</a>
     </td>
 
-    <!-- Palm Mirage -->
-    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; height:200px; vertical-align:top;">
-      <b>🏨 Palm Mirage</b><br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br><br>
-      <div style="height:70px;">Hotel booking platform with secure authentication & dashboards.</div>
-      <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
-    </td>
+   
 
-    <!-- FD Energies -->
-    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; height:200px; vertical-align:top;">
-      <b>⛽ FD Energies</b><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br><br>
-      <div style="height:70px;">Petroleum supplies site with real-time updates.</div>
-      <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
-    </td>
-
-    <!-- Get Fit -->
-    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; height:200px; vertical-align:top;">
-      <b>🥗 Get Fit</b><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br><br>
-      <div style="height:70px;">AI-powered nutrition tracker with calories & recipes.</div>
-      <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
-    </td>
-
-    <!-- Future Academy -->
-    <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; height:200px; vertical-align:top;">
-      <b>⚽ Future Academy</b><br>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /><br><br>
-      <div style="height:70px;">Responsive soccer academy with program exploration & session registration.</div>
-      <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
-    </td>
-  </tr>
-</table>
 ---
 
 ## 🛠 Skills
