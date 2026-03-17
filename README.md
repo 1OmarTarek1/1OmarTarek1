@@ -41,7 +41,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
-      <sub>Textile management system with inventory tracking & dashboards.</sub><br>
+      <sub>Management system with inventory tracking & dashboards.</sub><br>
       <a href="#">🔗 Live Demo</a>
     </td>
     <!-- Palm Mirage -->
@@ -77,7 +77,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Future_Academy-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /><br>
-      <sub>Responsive soccer academy with program exploration & session registration.</sub><br>
+      <sub>Soccer academy with program exploration & registration.</sub><br>
       <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
     </td>
   </tr>
