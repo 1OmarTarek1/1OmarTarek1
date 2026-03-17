@@ -38,7 +38,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
     <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Nayal_Tex_App-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-      <img src="https://img.shields.io/badge/GSAP-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/GSAP-1572B6?style=flat-square&logo=gsap&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
       <sub>Inventory management system & dashboards.</sub><br>
       <a href="#">🔗 Live Demo</a>
@@ -54,7 +54,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
     </td>
     <!-- FD Energies -->
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/FD_Energies-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
+      <img src="https://img.shields.io/badge/FD_Energies_Website-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
