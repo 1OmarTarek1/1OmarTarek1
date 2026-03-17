@@ -36,9 +36,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
   <tr>
     <!-- NAYAL TEX -->
     <td align="center" style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <div>
-  💡   Nayal Tex
-      </div>
+      <small>💡 Nayal Tex </small>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
