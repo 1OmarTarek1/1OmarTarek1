@@ -42,7 +42,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white&height=20" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black&height=20" /><br>
-      <small style="font-size:10px;">Textile management system with inventory tracking & dashboards.</small><br>
+      <small style="font-size:1px;">Textile management system with inventory tracking & dashboards.</small><br>
       <a href="#">🔗 Live Demo</a>
     </td>
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px;">
