@@ -35,15 +35,15 @@ I love turning ideas into **real products**, solving complex problems, and conti
 <table>
   <tr>
     <!-- NAYAL TEX -->
-    <td align="center" style="padding:0 10px 10px 10px; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <img src="https://img.shields.io/badge/NAYAL_TEX-061A40?style=flat-square&color=061A40&logoColor=white"
-           style="width:100%; height:30px; object-fit:cover; display:block; vertical-align:top; margin:0; padding:0;" />
+    <td align="center" style="padding:0 10px 10px 10px; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top; background-color:#061A40;">
+      <img src="https://img.shields.io/badge/NAYAL%20TEX-Textile%20Management-061A40?style=flat-square&color=061A40&logoColor=white"
+           style="width:100%; height:30px; object-fit:cover; display:block; margin:0; padding:0;" />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
-      <sub style="margin:0; padding:0;">Textile management system with inventory tracking & dashboards.</sub><br>
-      <a href="#" style="margin-top:auto; display:block;">🔗 Live Demo</a>
+      <sub style="margin:0; padding:0; display:block; color:#ddd;">Textile management system with inventory tracking & dashboards.</sub><br>
+      <a href="#" style="margin-top:auto; display:block; text-decoration:none; color:#61DAFB;">🔗 Live Demo</a>
     </td>
     <!-- Palm Mirage -->
     <td align="center" style="padding:10px; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
