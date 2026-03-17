@@ -39,7 +39,7 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Nayal_Tex_WebApp-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       <img src="https://img.shields.io/badge/GSAP-1572B6?style=flat-square&logo=gsap&logoColor=white" />
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       <sub>Inventory management system & dashboards.</sub><br>
       <a href="#">🔗 Live Demo</a>
     </td>
