@@ -35,8 +35,8 @@ I love turning ideas into **real products**, solving complex problems, and conti
 <table>
   <tr>
     <!-- NAYAL TEX -->
-    <td align="center" style="padding:10px; paddingTop:0; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
-      <div style="width:100%; text-align:center; font-weight:bold; font-size:18px; margin:0; padding:0;">
+<td align="center" style="padding:0 10px 10px 10px; border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
+  <div style="width:100%; text-align:center; font-weight:bold; font-size:18px; margin:0; padding:0;">
         <img src="https://img.shields.io/badge/NAYAL_TEX-061A40?style=flat-square&color=061A40&logoColor=white" style="width:100%; height:30px; objectfit:cover;"/>
       </div>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
