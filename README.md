@@ -32,45 +32,44 @@ I love turning ideas into **real products**, solving complex problems, and conti
 
 ## 💻 Some Projects
 
-<div align="center">
-
-<div style="display: inline-block; margin: 10px; text-align: center;">
-  <h4>💡 NAYAL TEX</h4>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <br>[🔗 Live Demo](#)
-</div>
-
-<div style="display: inline-block; margin: 10px; text-align: center;">
-  <h4>🏨 Palm Mirage</h4>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <br>[🔗 Live Demo](https://plam-mirage-hotel.netlify.app/)
-</div>
-
-<div style="display: inline-block; margin: 10px; text-align: center;">
-  <h4>⛽ FD Energies</h4>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br>[🔗 Live Demo](https://fd-liart-mu.vercel.app/)
-</div>
-
-<div style="display: inline-block; margin: 10px; text-align: center;">
-  <h4>🥗 Get Fit</h4>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <br>[🔗 Live Demo](https://1omartarek1.github.io/GET_FIT/)
-</div>
-
-<div style="display: inline-block; margin: 10px; text-align: center;">
-  <h4>⚽ Future Academy</h4>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <br>[🔗 Live Demo](https://1omartarek1.github.io/FutureFA/)
-</div>
-
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <b>💡 NAYAL TEX</b><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"><br>
+      <a href="#">🔗 Live Demo</a>
+    </td>
+    <td align="center">
+      <b>🏨 Palm Mirage</b><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"><br>
+      <a href="https://plam-mirage-hotel.netlify.app/">🔗 Live Demo</a>
+    </td>
+    <td align="center">
+      <b>⛽ FD Energies</b><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>🥗 Get Fit</b><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
+    </td>
+    <td align="center">
+      <b>⚽ Future Academy</b><br>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
+      <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
+    </td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
