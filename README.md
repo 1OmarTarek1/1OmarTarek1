@@ -30,19 +30,35 @@ I love turning ideas into **real products**, solving complex problems, and conti
 
 ---
 
-## 💻 Projects
-
 <div align="center">
 
-| Project | Tech | Demo |
-|---------|------|------|
-| **NAYAL TEX** | React.js, CSS3, GSAP, Webworker, TanStack, Firebase | [Live](#) |
-| **Palm Mirage** | Node.js, Express, React, MongoDB, Docker | [Live](https://plam-mirage-hotel.netlify.app/) |
-| **FD Energies** | Django, REST, Flask, React | [Live](https://fd-liart-mu.vercel.app/) |
-| **Get Fit** | Django, REST, Flask, React | [Live](https://1omartarek1.github.io/GET_FIT/) |
-| **Future Academy** | Django, REST, Flask, React | [Live](https://1omartarek1.github.io/FutureFA/) |
+### 💡 NAYAL TEX
+**Tech:** React.js, CSS3, GSAP, Webworker, TanStack, Firebase  
+[🔗 Live Demo](#)
 
-**More projects:** [GitHub](https://github.com/1OmarTarek1)
+---
+
+### 🏨 Palm Mirage
+**Tech:** Node.js, Express, React, MongoDB, Docker  
+[🔗 Live Demo](https://plam-mirage-hotel.netlify.app/)
+
+---
+
+### ⛽ FD Energies
+**Tech:** Django, REST, Flask, React  
+[🔗 Live Demo](https://fd-liart-mu.vercel.app/)
+
+---
+
+### 🥗 Get Fit
+**Tech:** Django, REST, Flask, React  
+[🔗 Live Demo](https://1omartarek1.github.io/GET_FIT/)
+
+---
+
+### ⚽ Future Academy
+**Tech:** Django, REST, Flask, React  
+[🔗 Live Demo](https://1omartarek1.github.io/FutureFA/)
 
 </div>
 
