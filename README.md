@@ -29,7 +29,6 @@ I love turning ideas into **real products**, solving complex problems, and conti
 - 🌍 Open Source Contributions  
 
 ---
-
 ## 💻 Some Projects
 
 <table>
@@ -53,8 +52,6 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"><br>
       <a href="https://fd-liart-mu.vercel.app/">🔗 Live Demo</a>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <b>🥗 Get Fit</b><br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"><br>
@@ -67,7 +64,6 @@ I love turning ideas into **real products**, solving complex problems, and conti
       <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"><br>
       <a href="https://1omartarek1.github.io/FutureFA/">🔗 Live Demo</a>
     </td>
-    <td></td>
   </tr>
 </table>
 
