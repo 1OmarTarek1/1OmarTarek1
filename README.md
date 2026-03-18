@@ -17,6 +17,17 @@
 
 ---
 
+## 💼 Experience  
+
+### 💻 Full-Stack Web Developer (Freelance)  
+- Building responsive and modern web applications using **React, Node.js, Express & MongoDB**  
+- Developing reusable UI components and full-stack features from frontend to backend  
+- Implementing authentication, APIs, and database integration  
+- Delivering real-world solutions for clients with focus on **performance, scalability & clean code**  
+- Continuously learning new technologies to improve web development skills
+
+---
+
 ## 💻 Some Projects
 
 <table>
