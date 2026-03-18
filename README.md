@@ -1,32 +1,19 @@
-<h3 align="center">
-  Welcome to Omar Tarek's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<h1 align="center">Hi 👋, I'm Omar Tarek</h1>
+<h3 align="center">Full-Stack Developer | TypeScript • React.js • Next.js • Node.js • Express.js • MongoDB </h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7243C&width=500&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;Building+Real+World+Products;Always+Learning+New+Technologies" />
-</a>
+  <a href="https://github.com/Ahmedaminn1">
+    <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=22&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Scalable+Web+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies" />
+  </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-
-I'm **Omar Tarek**, a passionate **Full-Stack Developer** building **secure, scalable, and responsive web applications**.  
-Specialized in **React, Next.js, Node.js, Express**, with databases like **MongoDB, MySQL, PostgreSQL**.  
-
-I love turning ideas into **real products**, solving complex problems, and continuously learning new technologies.
-
----
-
-## 🚀 Current Focus
-
-- 💻 Freelance Full-Stack Projects  
-- ⚛️ React & Next.js Advanced Skills  
-- 🧠 Backend Architecture & API Development  
-- 🐍 Python & Advanced Web Concepts  
-- 🌍 Open Source Contributions  
+## 🚀 About Me  
+💻 Junior Full-Stack Developer passionate about building scalable & modern UI  
+🚀 Building modern, scalable web apps
+💼 Currently Working as a Freelance
+📍 Cairo, Egypt  
 
 ---
 
