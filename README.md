@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 About Me  
-💻 Junior Full-Stack Developer passionate about building scalable & modern UI  
-🚀 Building modern, scalable web apps
-💼 Currently Working as a Freelance
-📍 Cairo, Egypt  
+💻 Junior Full-Stack Developer passionate about building scalable & modern UI<br>
+🚀 Building modern, scalable web apps<br>
+💼 Currently Working as a Freelance<br>
+📍 Cairo, Egypt<br>
 
 ---
 
