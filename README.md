@@ -170,7 +170,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" height="180"/>
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" width="500" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" height="180" alt="Top Languages" />
   <br/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1OmarTarek1&theme=tokyonight" height="180"/>
@@ -181,9 +181,3 @@
 
 ⭐ **Always building, always learning.**
 
-
-  <!-- Streak Stats (adjusted size) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1OmarTarek1&theme=tokyonight" width="500" height="180" />
-  <br/>
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=react-dark&hide_border=true" width="500" />
