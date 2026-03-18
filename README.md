@@ -164,12 +164,16 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" />
   <br/>
+  <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1OmarTarek1&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=1OmarTarek1&theme=tokyonight" alt="WakaTime Stats" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=tokyonight&hide_border=true" alt="Contribution Graph" />
   <br/>
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
