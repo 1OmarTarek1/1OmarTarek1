@@ -163,7 +163,7 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="">
+<p align="center" style="vertical-align:center;">
   <!-- Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   <br/>
