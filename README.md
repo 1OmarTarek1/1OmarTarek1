@@ -169,15 +169,11 @@
   <br/>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" />
-  <br/>
-  <!-- New Image Added -->
-  <img src="https://via.placeholder.com/400x100?text=New+Image" alt="New Image" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1OmarTarek1&theme=tokyonight" />
-  <br/>
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>>
 
 ---
