@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Tarek</h1>
-<h3 align="center">Full-Stack Developer | TypeScript • React.js • Next.js • Node.js • Express.js • MongoDB </h3>
+<h3 align="center">Full-Stack Developer | MERN Stack </h3>
 
 <p align="center">
   <a href="https://github.com/Ahmedaminn1">
