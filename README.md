@@ -164,9 +164,6 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
-  <br/>
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" height="260"/>
   <!-- Top Languages -->
@@ -174,6 +171,8 @@
   <br/>
   <!-- Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=1OmarTarek1&theme=tokyonight" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </p>
 
 
