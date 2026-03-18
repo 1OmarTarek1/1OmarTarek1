@@ -168,7 +168,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1OmarTarek1&theme=react-dark&hide_border=true" alt="Contribution Graph" />
   <br/>
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" height="210"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1OmarTarek1&show_icons=true&theme=tokyonight" height="260"/>
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1OmarTarek1&layout=compact&theme=tokyonight" alt="Top Languages" />
   <br/>
