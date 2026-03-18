@@ -28,7 +28,7 @@
 
 ---
 
-## 💻 Some Projects
+## 🌐 Some Projects
 
 <table>
   <tr>
