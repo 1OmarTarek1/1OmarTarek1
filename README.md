@@ -49,8 +49,8 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
       <sub>Hotel booking platform Website App</sub><br>
-      <a href="https://palm-mirage.netlify.app">🔗Website</a>
-      <a href="https://palm-mirage-hotel-dashboard.vercel.app">🔗Dashboard</a>
+      <a href="https://palm-mirage.netlify.app">🔗Web</a>
+      <a href="https://palm-mirage-hotel-dashboard.vercel.app">🔗Dash</a>
     </td>
     <!-- FD Energies -->
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
