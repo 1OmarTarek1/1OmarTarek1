@@ -49,7 +49,7 @@
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /><br>
       <sub>Hotel booking platform Website App</sub><br>
-      <a href="https://plam-mirage.netlify.app">🔗 Website</a>
+      <a href="https://palm-mirage.netlify.app">🔗 Website</a>
       <a href="https://palm-mirage-hotel-dashboard.vercel.app">🔗 Dashboard</a>
     </td>
     <!-- FD Energies -->
