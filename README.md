@@ -65,7 +65,7 @@
     <td style=" border:1px solid #444; border-radius:10px; width:220px; vertical-align:top;">
       <img src="https://img.shields.io/badge/Get_Fit_App-7FDBFF?style=flat-square&color=7FDBFF&logoColor=white" style="width:100%; height:35px"/>
       <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" />
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+      <!-- <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" /> -->
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br>
       <sub>AI-powered nutrition tracker with calories.</sub><br>
       <a href="https://1omartarek1.github.io/GET_FIT/">🔗 Live Demo</a>
